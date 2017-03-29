@@ -57,13 +57,24 @@ Python 语言学习过程中的练习
 
 	26、练习31（ex31.py）—— 条件语句应用
 	
-	27、练习32（ex32.py）—— for循环
+    27、练习32（ex32.py）—— for循环
 	
-	28、练习33（ex33.py）—— while循环
+    28、练习33（ex33.py）—— while循环
 	
-	29、练习34（ex34.py）—— list
+    29、练习34（ex34.py）—— list
 	
-	30、练习35（ex35.py）—— 综合练习
+    30、练习35（ex35.py）—— 综合练习
+	
+    31、练习38（ex38.py）—— list操作
+	
+    32、练习39（ex39.py）—— 词典
+	
+    33、练习40（ex40.py）——  Modules, Classes, and Objects
+	
+    34、练习41（ex41.py）—— 面向对象代码分析
+	
+	35、练习42（ex42.py）—— Is-A, Has-A, Objects, and Classes
+	
 
 
 
